@@ -1,13 +1,13 @@
 body{
     padding:0;
     margin:0 auto;
-	font-family:cursive;
+    font-family:cursive;
 }
-.score{
-	width:285px;
-	margin:15px auto;
-	text-align:center;
-	font-size:1.2em;
+.score{ 
+   width:285px;
+   margin:15px auto;
+   text-align:center; 
+   font-size:1.2em;
 }
 .row{
     margin:10px auto;
@@ -15,32 +15,32 @@ body{
 }
 .board{
     width:50px;
-	float:left;
-	background-color:#ddd;
-	height:50px;
-	font-size:30pt;
-	text-align:center;
-	padding:10px;
-	margin:10px;
-	color:#333;
-	border:2px solid #000;
+    float:left;
+    background-color:#ddd;
+    height:50px; 
+    font-size:30pt;
+    text-align:center;
+    padding:10px;
+    margin:10px;
+    color:#333;
+    border:2px solid #000;
 }
 .board:hover{
     opacity:0.7;
-	width:51px;
-	transform:scaleX(360deg);
-	height:50px;
-	cursor:pointer;
+    width:51px;
+    transform:scaleX(360deg); 
+    height:50px;
+    cursor:pointer;
 }
 .restart{
     width:285px;
-	margin:30px auto;
-	padding:20px;
-	font-family:cursive;
-	text-align:center;
-	font-size:18px;
+    margin:30px auto;
+    padding:20px;
+    font-family:cursive;
+    text-align:center;
+    font-size:18px;
 }
 .restart:hover{
     font-size:22px;
-	cursor:pointer;
+    cursor:pointer;
 }
