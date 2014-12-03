@@ -1,4 +1,4 @@
 TicTacToe
 =========
 
-TicTacToe The Game
+TicTacToe The Game! Awesome :)
